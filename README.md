@@ -8,3 +8,5 @@ no
 git: buildin
 
 xhm
+
+terminal : wrong email
