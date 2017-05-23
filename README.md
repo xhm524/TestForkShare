@@ -3,4 +3,6 @@ xhm TestForkShare
 
 change setting
 
-no
+no 
+
+git: buildin
