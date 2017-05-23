@@ -10,3 +10,5 @@ git: buildin
 xhm
 
 terminal : wrong email
+
+setting login: wrong 
